@@ -3,7 +3,9 @@
 
 
 ## Build
-Make sure you are using the same CPU and motherboard.
+Make sure you are using the same motherboard.
+
+### Tested CPUs : I3-8100, I9-9900
 
 | Component | Model |
 | ------ | ------ |

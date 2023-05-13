@@ -16,7 +16,7 @@ Make sure you are using the same motherboard.
 
 
 # Display setup
-Connected 2 Displays connected 
+2 Displays connected 
 - HDMI
 - DVI (DVI to HDMI cable)
 
